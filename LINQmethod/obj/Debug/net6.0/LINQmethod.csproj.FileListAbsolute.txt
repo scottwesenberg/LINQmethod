@@ -1,0 +1,15 @@
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQmethod\LINQmethod\bin\Debug\net6.0\LINQmethod.exe
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQmethod\LINQmethod\bin\Debug\net6.0\LINQmethod.deps.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQmethod\LINQmethod\bin\Debug\net6.0\LINQmethod.runtimeconfig.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQmethod\LINQmethod\bin\Debug\net6.0\LINQmethod.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQmethod\LINQmethod\bin\Debug\net6.0\LINQmethod.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQmethod\LINQmethod\obj\Debug\net6.0\LINQmethod.csproj.AssemblyReference.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQmethod\LINQmethod\obj\Debug\net6.0\LINQmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQmethod\LINQmethod\obj\Debug\net6.0\LINQmethod.AssemblyInfoInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQmethod\LINQmethod\obj\Debug\net6.0\LINQmethod.AssemblyInfo.cs
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQmethod\LINQmethod\obj\Debug\net6.0\LINQmethod.csproj.CoreCompileInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQmethod\LINQmethod\obj\Debug\net6.0\LINQmethod.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQmethod\LINQmethod\obj\Debug\net6.0\refint\LINQmethod.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQmethod\LINQmethod\obj\Debug\net6.0\LINQmethod.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQmethod\LINQmethod\obj\Debug\net6.0\LINQmethod.genruntimeconfig.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\LINQmethod\LINQmethod\obj\Debug\net6.0\ref\LINQmethod.dll
